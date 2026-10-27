@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediTrack Dashboard (Streamlit + MySQL)
 
 Beginner-friendly dashboard for the existing MediTrack database. The app is read-only: it does not insert, update, or delete database records.
@@ -42,3 +43,7 @@ Click **Connect to MediTrack**.
 - Unknown database/table: check the database name and table names in Workbench.
 - Missing Departments table: the app still displays the doctors table without department names.
 - The app reads actual records only; it does not create sample records.
+=======
+# MediTrack-Hospital-Dashboard
+Hospital Patient Management Dashboard using SQL, Python, Streamlit and MySQL
+>>>>>>> afb771b49cb7fde41ee16f95e725a28c73d0ddae
